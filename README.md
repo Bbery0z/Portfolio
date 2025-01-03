@@ -32,7 +32,7 @@ Example: San Francisco exhibit significantly higher prices compared to markets l
 
 ## Commodity by Year-over-Year (YoY) Change
 
- ![](images/Picture2.jpg)
+ ![](images/Picture5.jpg)
  
 Insight: This shows the percentage change in commodity prices compared to the previous year. A negative YoY indicates a decline in prices.
 Example: Commodities like lettuce Boston Red with - 100% YoY change indicates their average prices have decreased by 100% compared to last year. This decline calls for an investigation into the underlying causes, such as changes in consumer behavior or economic factors.
