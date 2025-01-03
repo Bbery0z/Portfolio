@@ -3,11 +3,11 @@
 Executive Summary
 This report analyzes key trends in the pricing data of fruits in different markets in the US. The focus areas include the sum of average price by commodity, sum of average price by date, price by market, and commodity by year-over-year (YoY) change. Notable trends include a downward trend in average prices over time and a negative YoY change for several commodities.
 
- ![Commodity Price Analysis](IMAGES/Picture1.jpg)
+ ![](images/Picture1.jpg)
 
 1.	Sum of Average Price by Commodity
 
-![Sum of Average Price by Commodity](IMAGES/Picture2.jpg)
+![](images/Picture2.jpg)
  
 Insight: This metric highlights the commodities with the highest and lowest average prices. It helps identify the most valuable commodities and those that may require pricing adjustments.
 Example: Commodities like Apples have the highest average price ($1,183,611.03, accounting for 20.46% of the sum of Avg prices), indicate strong market demand or limited supply. Conversely, commodities like Lettuce Boston Red with the lowest average price ($192) may need strategic pricing reviews to enhance profitability.
