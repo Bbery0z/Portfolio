@@ -1,6 +1,6 @@
 # Project1-USDA-Commodity-Price-Analysis
 
-Executive Summary
+## Executive Summary
 This report analyzes key trends in the pricing data of fruits in different markets in the US. The focus areas include the sum of average price by commodity, sum of average price by date, price by market, and commodity by year-over-year (YoY) change. Notable trends include a downward trend in average prices over time and a negative YoY change for several commodities.
 
  ![](images/Picture1.jpg)
