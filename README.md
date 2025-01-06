@@ -38,13 +38,23 @@ Insight: This shows the percentage change in commodity prices compared to the pr
 Example: Commodities like lettuce Boston Red with - 100% YoY change indicates their average prices have decreased by 100% compared to last year. This decline calls for an investigation into the underlying causes, such as changes in consumer behavior or economic factors.
 
 ## Key Trends
-•	Downward Trend of Average Price by Date: The overall market prices for commodities are falling over time. This trend could be due to increased supply, reduced demand, or economic factors affecting purchasing power.
-•	Negative YoY Change: A negative YoY change for multiple commodities suggests a broader market trend of declining prices. This could signal underlying issues such as economic downturns, increased competition, or shifts in consumer preferences.
+- **Downward Trend of Average Price by Date**:  
+  The overall market prices for commodities are falling over time. This trend could be due to increased supply, reduced demand, or economic factors affecting purchasing power.
+
+- **Negative YoY Change**:  
+  A negative Year-over-Year (YoY) change for multiple commodities suggests a broader market trend of declining prices. This could signal underlying issues such as economic downturns, increased competition, or shifts in consumer preferences.
+
 
 ## Actionable Insights
-•	Adjust Pricing Strategies: Revise pricing strategies for commodities with significant price drops to maintain profitability.
-•	Market Expansion: Explore opportunities in markets with higher prices to maximize revenue.
-•	Supply Chain Optimization: Investigate supply chain efficiencies to reduce costs and counteract the impact of falling prices.
+- **Adjust Pricing Strategies**:  
+  Revise pricing strategies for commodities with significant price drops to maintain profitability.
+
+- **Market Expansion**:  
+  Explore opportunities in markets with higher prices to maximize revenue.
+
+- **Supply Chain Optimization**:  
+  Investigate supply chain efficiencies to reduce costs and counteract the impact of falling prices.
+
 
 # Conclusion
 The analysis of commodity price trends reveals critical insights into market dynamics. Addressing the downward trend in average prices and negative YoY changes requires strategic adjustments in pricing, market expansion, and supply chain optimization. These actions will help mitigate the impact of declining prices and enhance overall market performance.
